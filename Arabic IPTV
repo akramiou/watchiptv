@@ -1,687 +1,252 @@
-#EXTM3U
-#EXTINF:-1,AR: LDC
-http://212.8.248.197:8080/live/adrio/adrio/24.ts
-#EXTINF:-1,AR: LDC 2
-http://212.8.248.197:8080/live/adrio/adrio/3726.ts
-#EXTINF:-1,AR: LDC 3
-http://212.8.248.197:8080/live/adrio/adrio/3727.ts
-#EXTINF:-1,AR: LDC 4
-http://212.8.248.197:8080/live/adrio/adrio/3728.ts
-#EXTINF:-1,AR: OTV
-http://212.8.248.197:8080/live/adrio/adrio/26.ts
-#EXTINF:-1,AR: OTV 2
-http://212.8.248.197:8080/live/adrio/adrio/3729.ts
-#EXTINF:-1,AR: OTV 3
-http://212.8.248.197:8080/live/adrio/adrio/3730.ts
-#EXTINF:-1,AR: OTV 4
-http://212.8.248.197:8080/live/adrio/adrio/3731.ts
-#EXTINF:-1,AR: Future
-http://212.8.248.197:8080/live/adrio/adrio/113.ts
-#EXTINF:-1,AR: Future TV 2
-http://212.8.248.197:8080/live/adrio/adrio/3735.ts
-#EXTINF:-1,AR: Future TV 3
-http://212.8.248.197:8080/live/adrio/adrio/3736.ts
-#EXTINF:-1,AR: Future TV 4
-http://212.8.248.197:8080/live/adrio/adrio/3737.ts
-#EXTINF:-1,AR: LBC
-http://212.8.248.197:8080/live/adrio/adrio/88.ts
-#EXTINF:-1,AR: LBC TV 2
-http://212.8.248.197:8080/live/adrio/adrio/2259.ts
-#EXTINF:-1,AR: LBC TV 3
-http://212.8.248.197:8080/live/adrio/adrio/2260.ts
-#EXTINF:-1,AR: LBC TV 4
-http://212.8.248.197:8080/live/adrio/adrio/2261.ts
-#EXTINF:-1,AR: Tele Lebanon tv
-http://212.8.248.197:8080/live/adrio/adrio/102.ts
-#EXTINF:-1,AR: Tele Lebanon 2
-http://212.8.248.197:8080/live/adrio/adrio/3738.ts
-#EXTINF:-1,AR: Tele Lebanon 4
-http://212.8.248.197:8080/live/adrio/adrio/3739.ts
-#EXTINF:-1,AR: Tele Lebanon 7
-http://212.8.248.197:8080/live/adrio/adrio/3740.ts
-#EXTINF:-1,AR: Liwan HD
-http://212.8.248.197:8080/live/adrio/adrio/2302.ts
-#EXTINF:-1,AR: ALaan TV
-http://212.8.248.197:8080/live/adrio/adrio/2211.ts
-#EXTINF:-1,AR: Manar tv
-http://212.8.248.197:8080/live/adrio/adrio/54.ts
-#EXTINF:-1,AR: Sama tv
-http://212.8.248.197:8080/live/adrio/adrio/2327.ts
-#EXTINF:-1,AR: Salam TV
-http://212.8.248.197:8080/live/adrio/adrio/2320.ts
-#EXTINF:-1,AR: Syria 1
-http://212.8.248.197:8080/live/adrio/adrio/13.ts
-#EXTINF:-1,AR: Syria TV
-http://212.8.248.197:8080/live/adrio/adrio/14.ts
-#EXTINF:-1,AR: Syrian Drama
-http://212.8.248.197:8080/live/adrio/adrio/52.ts
-#EXTINF:-1,AR: Syria Lkhbaria
-http://212.8.248.197:8080/live/adrio/adrio/142.ts
-#EXTINF:-1,AR: Menhag Alnbowa
-http://212.8.248.197:8080/live/adrio/adrio/2276.ts
-#EXTINF:-1,AR: Quran 3azem
-http://212.8.248.197:8080/live/adrio/adrio/2209.ts
-#EXTINF:-1,AR: Al Fath
-http://212.8.248.197:8080/live/adrio/adrio/2287.ts
-#EXTINF:-1,AR: Majd
-http://212.8.248.197:8080/live/adrio/adrio/68.ts
-#EXTINF:-1,AR: Al Majd 3
-http://212.8.248.197:8080/live/adrio/adrio/2246.ts
-#EXTINF:-1,AR: Makkah TV
-http://212.8.248.197:8080/live/adrio/adrio/2278.ts
-#EXTINF:-1,AR: Eslam China
-http://212.8.248.197:8080/live/adrio/adrio/2269.ts
-#EXTINF:-1,AR: Al Gameela
-http://212.8.248.197:8080/live/adrio/adrio/2324.ts
-#EXTINF:-1,AR: Al Rahma
-http://212.8.248.197:8080/live/adrio/adrio/2326.ts
-#EXTINF:-1,AR: Sumaria TV
-http://212.8.248.197:8080/live/adrio/adrio/2340.ts
-#EXTINF:-1,AR: Tratel
-http://212.8.248.197:8080/live/adrio/adrio/2301.ts
-#EXTINF:-1,AR: Kokky TV
-http://212.8.248.197:8080/live/adrio/adrio/2214.ts
-#EXTINF:-1,AR: Aeo Geraphic
-http://212.8.248.197:8080/live/adrio/adrio/2303.ts
-#EXTINF:-1,AR: Roya
-http://212.8.248.197:8080/live/adrio/adrio/2343.ts
-#EXTINF:-1,AR: Almaher
-http://212.8.248.197:8080/live/adrio/adrio/2310.ts
-#EXTINF:-1,AR: Dzair TV
-http://212.8.248.197:8080/live/adrio/adrio/2309.ts
-#EXTINF:-1,AR: Ayat Elqran
-http://212.8.248.197:8080/live/adrio/adrio/2213.ts
-#EXTINF:-1,AR: Al Resala
-http://212.8.248.197:8080/live/adrio/adrio/2311.ts
-#EXTINF:-1,AR: Al Jameela
-http://212.8.248.197:8080/live/adrio/adrio/2308.ts
-#EXTINF:-1,AR: Eslam Ayat
-http://212.8.248.197:8080/live/adrio/adrio/2304.ts
-#EXTINF:-1,AR: 4Shbab
-http://212.8.248.197:8080/live/adrio/adrio/123.ts
-#EXTINF:-1,AR: Majd Kids HD
-http://212.8.248.197:8080/live/adrio/adrio/131.ts
-#EXTINF:-1,AR: Toyor Aljanah
-http://212.8.248.197:8080/live/adrio/adrio/129.ts
-#EXTINF:-1,AR: Al rwad
-http://212.8.248.197:8080/live/adrio/adrio/2281.ts
-#EXTINF:-1,AR: Spacetoon
-http://212.8.248.197:8080/live/adrio/adrio/114.ts
-#EXTINF:-1,AR: SemSem
-http://212.8.248.197:8080/live/adrio/adrio/2315.ts
-#EXTINF:-1,AR: Baraem
-http://212.8.248.197:8080/live/adrio/adrio/95.ts
-#EXTINF:-1,AR: Karameesh
-http://212.8.248.197:8080/live/adrio/adrio/96.ts
-#EXTINF:-1,AR: Al Masriya
-http://212.8.248.197:8080/live/adrio/adrio/110.ts
-#EXTINF:-1,AR: Al Thanya
-http://212.8.248.197:8080/live/adrio/adrio/97.ts
-#EXTINF:-1,AR: Art Aflam 1
-http://212.8.248.197:8080/live/adrio/adrio/105.ts
-#EXTINF:-1,AR: Art Aflam 2
-http://212.8.248.197:8080/live/adrio/adrio/104.ts
-#EXTINF:-1,AR: Art Hekayat
-http://212.8.248.197:8080/live/adrio/adrio/101.ts
-#EXTINF:-1,AR: Art Hekayat 2
-http://212.8.248.197:8080/live/adrio/adrio/100.ts
-#EXTINF:-1,AR: Afrah TV
-http://212.8.248.197:8080/live/adrio/adrio/86.ts
-#EXTINF:-1,AR: Sha3beyat
-http://212.8.248.197:8080/live/adrio/adrio/118.ts
-#EXTINF:-1,AR: Music Sha3by TV
-http://212.8.248.197:8080/live/adrio/adrio/2530.ts
-#EXTINF:-1,AR: Hob Fee EL Moled
-http://212.8.248.197:8080/live/adrio/adrio/2328.ts
-#EXTINF:-1,AR: Music plus
-http://212.8.248.197:8080/live/adrio/adrio/2330.ts
-#EXTINF:-1,AR: Hawa Com
-http://212.8.248.197:8080/live/adrio/adrio/2332.ts
-#EXTINF:-1,AR: Berbere Music
-http://212.8.248.197:8080/live/adrio/adrio/2338.ts
-#EXTINF:-1,AR: Saudi News
-http://212.8.248.197:8080/live/adrio/adrio/2263.ts
-#EXTINF:-1,AR: Music Al Haneen
-http://212.8.248.197:8080/live/adrio/adrio/2199.ts
-#EXTINF:-1,AR: One Music TV
-http://212.8.248.197:8080/live/adrio/adrio/59.ts
-#EXTINF:-1,AR: Alremas Music
-http://212.8.248.197:8080/live/adrio/adrio/53.ts
-#EXTINF:-1,AR: Mazzika
-http://212.8.248.197:8080/live/adrio/adrio/89.ts
-#EXTINF:-1,AR: Wanasa
-http://212.8.248.197:8080/live/adrio/adrio/126.ts
-#EXTINF:-1,AR: Maspero Zaman
-http://212.8.248.197:8080/live/adrio/adrio/151.ts
-#EXTINF:-1,AR: Mbc 1
-http://212.8.248.197:8080/live/adrio/adrio/50.ts
-#EXTINF:-1,AR: Mbc 1 HD
-http://212.8.248.197:8080/live/adrio/adrio/2274.ts
-#EXTINF:-1,AR: Mbc 1 2h
-http://212.8.248.197:8080/live/adrio/adrio/3741.ts
-#EXTINF:-1,AR: Mbc 1 4h
-http://212.8.248.197:8080/live/adrio/adrio/3742.ts
-#EXTINF:-1,AR: Mbc 1 7h
-http://212.8.248.197:8080/live/adrio/adrio/3743.ts
-#EXTINF:-1,AR: Mbc 2
-http://212.8.248.197:8080/live/adrio/adrio/49.ts
-#EXTINF:-1,AR: Mbc 2 HD
-http://212.8.248.197:8080/live/adrio/adrio/2272.ts
-#EXTINF:-1,AR: Mbc 2 2h
-http://212.8.248.197:8080/live/adrio/adrio/3744.ts
-#EXTINF:-1,AR: Mbc 2 4h
-http://212.8.248.197:8080/live/adrio/adrio/3745.ts
-#EXTINF:-1,AR: Mbc 2 7h
-http://212.8.248.197:8080/live/adrio/adrio/3746.ts
-#EXTINF:-1,AR: Mbc 3
-http://212.8.248.197:8080/live/adrio/adrio/48.ts
-#EXTINF:-1,AR: Mbc 3 2h
-http://212.8.248.197:8080/live/adrio/adrio/3747.ts
-#EXTINF:-1,AR: Mbc 3 4h
-http://212.8.248.197:8080/live/adrio/adrio/3748.ts
-#EXTINF:-1,AR: Mbc 3 7h
-http://212.8.248.197:8080/live/adrio/adrio/3749.ts
-#EXTINF:-1,AR: Mbc 4
-http://212.8.248.197:8080/live/adrio/adrio/47.ts
-#EXTINF:-1,AR: Mbc 4 2h
-http://212.8.248.197:8080/live/adrio/adrio/3750.ts
-#EXTINF:-1,AR: Mbc 4 4h
-http://212.8.248.197:8080/live/adrio/adrio/3751.ts
-#EXTINF:-1,AR: Mbc 4 7h
-http://212.8.248.197:8080/live/adrio/adrio/3752.ts
-#EXTINF:-1,AR: Mbc 4 HD
-http://212.8.248.197:8080/live/adrio/adrio/2271.ts
-#EXTINF:-1,AR: Mbc Masr
-http://212.8.248.197:8080/live/adrio/adrio/46.ts
-#EXTINF:-1,AR: Mbc Masr 2
-http://212.8.248.197:8080/live/adrio/adrio/45.ts
-#EXTINF:-1,AR: Mbc Drama
-http://212.8.248.197:8080/live/adrio/adrio/42.ts
-#EXTINF:-1,AR: Mbc Drama HD
-http://212.8.248.197:8080/live/adrio/adrio/2273.ts
-#EXTINF:-1,AR: Mbc Drama 2h
-http://212.8.248.197:8080/live/adrio/adrio/4327.ts
-#EXTINF:-1,AR: Mbc Drama 4h
-http://212.8.248.197:8080/live/adrio/adrio/4328.ts
-#EXTINF:-1,AR: Mbc Drama 7h
-http://212.8.248.197:8080/live/adrio/adrio/4329.ts
-#EXTINF:-1,AR: Mbc Action
-http://212.8.248.197:8080/live/adrio/adrio/44.ts
-#EXTINF:-1,AR: Mbc Action HD
-http://212.8.248.197:8080/live/adrio/adrio/2270.ts
-#EXTINF:-1,AR: Mbc Action 2h
-http://212.8.248.197:8080/live/adrio/adrio/3753.ts
-#EXTINF:-1,AR: Mbc Action 4h
-http://212.8.248.197:8080/live/adrio/adrio/3754.ts
-#EXTINF:-1,AR: Mbc Action 7h
-http://212.8.248.197:8080/live/adrio/adrio/4326.ts
-#EXTINF:-1,AR: Mbc Max
-http://212.8.248.197:8080/live/adrio/adrio/43.ts
-#EXTINF:-1,AR: Mbc Bollywood
-http://212.8.248.197:8080/live/adrio/adrio/41.ts
-#EXTINF:-1,AR: Mbc Sport 1
-http://212.8.248.197:8080/live/adrio/adrio/2435.ts
-#EXTINF:-1,AR: Mbc Sport 2
-http://212.8.248.197:8080/live/adrio/adrio/2436.ts
-#EXTINF:-1,AR: Mbc Sport 3
-http://212.8.248.197:8080/live/adrio/adrio/2437.ts
-#EXTINF:-1,AR: ON Ent HD
-http://212.8.248.197:8080/live/adrio/adrio/2244.ts
-#EXTINF:-1,AR: ON Drama
-http://212.8.248.197:8080/live/adrio/adrio/2229.ts
-#EXTINF:-1,AR: ON Sport
-http://212.8.248.197:8080/live/adrio/adrio/2242.ts
-#EXTINF:-1,AR: Al Ahly TV
-http://212.8.248.197:8080/live/adrio/adrio/2322.ts
-#EXTINF:-1,AR: DMC Sports
-http://212.8.248.197:8080/live/adrio/adrio/2243.ts
-#EXTINF:-1,AR: DMC Drama
-http://212.8.248.197:8080/live/adrio/adrio/2262.ts
-#EXTINF:-1,AR: DMC HD
-http://212.8.248.197:8080/live/adrio/adrio/34.ts
-#EXTINF:-1,AR: 4G Drama
-http://212.8.248.197:8080/live/adrio/adrio/21.ts
-#EXTINF:-1,AR: 4G Aflam
-http://212.8.248.197:8080/live/adrio/adrio/61.ts
-#EXTINF:-1,AR: 4G Cinma
-http://212.8.248.197:8080/live/adrio/adrio/2300.ts
-#EXTINF:-1,AR: 4G Cima
-http://212.8.248.197:8080/live/adrio/adrio/4330.ts
-#EXTINF:-1,AR: 4G Classic
-http://212.8.248.197:8080/live/adrio/adrio/4331.ts
-#EXTINF:-1,AR: 4G Film
-http://212.8.248.197:8080/live/adrio/adrio/4332.ts
-#EXTINF:-1,AR: Berbere TV
-http://212.8.248.197:8080/live/adrio/adrio/120.ts
-#EXTINF:-1,AR: Shasha Mosalslat
-http://212.8.248.197:8080/live/adrio/adrio/4342.ts
-#EXTINF:-1,AR: Family Classic
-http://212.8.248.197:8080/live/adrio/adrio/4345.ts
-#EXTINF:-1,AR: Algerie 5
-http://212.8.248.197:8080/live/adrio/adrio/4346.ts
-#EXTINF:-1,AR: Family Hikayat
-http://212.8.248.197:8080/live/adrio/adrio/4347.ts
-#EXTINF:-1,AR: Hareem Elsultan
-http://212.8.248.197:8080/live/adrio/adrio/4343.ts
-#EXTINF:-1,AR: GOLD TV
-http://212.8.248.197:8080/live/adrio/adrio/4348.ts
-#EXTINF:-1,AR: Nile Drama
-http://212.8.248.197:8080/live/adrio/adrio/76.ts
-#EXTINF:-1,AR: Nile Comedy
-http://212.8.248.197:8080/live/adrio/adrio/75.ts
-#EXTINF:-1,AR: Nile Cinma
-http://212.8.248.197:8080/live/adrio/adrio/74.ts
-#EXTINF:-1,AR: Nile Culture
-http://212.8.248.197:8080/live/adrio/adrio/2282.ts
-#EXTINF:-1,AR: Nile Life
-http://212.8.248.197:8080/live/adrio/adrio/62.ts
-#EXTINF:-1,AR: Nile News
-http://212.8.248.197:8080/live/adrio/adrio/38.ts
-#EXTINF:-1,AR: Nile sport
-http://212.8.248.197:8080/live/adrio/adrio/73.ts
-#EXTINF:-1,AR: Nile tv
-http://212.8.248.197:8080/live/adrio/adrio/27.ts
-#EXTINF:-1,AR: Nile Blue TV
-http://212.8.248.197:8080/live/adrio/adrio/2227.ts
-#EXTINF:-1,AR: Al Assema
-http://212.8.248.197:8080/live/adrio/adrio/2283.ts
-#EXTINF:-1,AR: Melody Classic
-http://212.8.248.197:8080/live/adrio/adrio/65.ts
-#EXTINF:-1,AR: Panorama Film
-http://212.8.248.197:8080/live/adrio/adrio/98.ts
-#EXTINF:-1,AR: Panorama Yom
-http://212.8.248.197:8080/live/adrio/adrio/155.ts
-#EXTINF:-1,AR: Panorama Drama
-http://212.8.248.197:8080/live/adrio/adrio/77.ts
-#EXTINF:-1,AR: Panorama Drama 2
-http://212.8.248.197:8080/live/adrio/adrio/25.ts
-#EXTINF:-1,AR: Panorama Food
-http://212.8.248.197:8080/live/adrio/adrio/2294.ts
-#EXTINF:-1,AR: Cbc
-http://212.8.248.197:8080/live/adrio/adrio/90.ts
-#EXTINF:-1,AR: Cbc Extra
-http://212.8.248.197:8080/live/adrio/adrio/92.ts
-#EXTINF:-1,AR: Cbc Drama
-http://212.8.248.197:8080/live/adrio/adrio/91.ts
-#EXTINF:-1,AR: CBC Sofra
-http://212.8.248.197:8080/live/adrio/adrio/2252.ts
-#EXTINF:-1,AR: Rotana Music
-http://212.8.248.197:8080/live/adrio/adrio/79.ts
-#EXTINF:-1,AR: Rotana Clip
-http://212.8.248.197:8080/live/adrio/adrio/83.ts
-#EXTINF:-1,AR: Rotana Masriya
-http://212.8.248.197:8080/live/adrio/adrio/80.ts
-#EXTINF:-1,AR: Rotana Classic
-http://212.8.248.197:8080/live/adrio/adrio/82.ts
-#EXTINF:-1,AR: Rotana Cinma
-http://212.8.248.197:8080/live/adrio/adrio/81.ts
-#EXTINF:-1,AR: Rotana Khalijiah
-http://212.8.248.197:8080/live/adrio/adrio/72.ts
-#EXTINF:-1,AR: El Mehwer
-http://212.8.248.197:8080/live/adrio/adrio/2342.ts
-#EXTINF:-1,AR: Dream 1
-http://212.8.248.197:8080/live/adrio/adrio/94.ts
-#EXTINF:-1,AR: Al Nahar
-http://212.8.248.197:8080/live/adrio/adrio/154.ts
-#EXTINF:-1,AR: Al Nahar Drama
-http://212.8.248.197:8080/live/adrio/adrio/152.ts
-#EXTINF:-1,AR: TLC
-http://212.8.248.197:8080/live/adrio/adrio/71.ts
-#EXTINF:-1,AR: Sada ALbalad HD
-http://212.8.248.197:8080/live/adrio/adrio/51.ts
-#EXTINF:-1,AR: Sada Albalad Drama
-http://212.8.248.197:8080/live/adrio/adrio/116.ts
-#EXTINF:-1,AR: Sada ALbalad 2 HD
-http://212.8.248.197:8080/live/adrio/adrio/156.ts
-#EXTINF:-1,AR: Abu Dhabi Drama
-http://212.8.248.197:8080/live/adrio/adrio/55.ts
-#EXTINF:-1,AR: Al Emarat tv HD
-http://212.8.248.197:8080/live/adrio/adrio/130.ts
-#EXTINF:-1,AR: Alhayat 1
-http://212.8.248.197:8080/live/adrio/adrio/109.ts
-#EXTINF:-1,AR: Alhayat 2
-http://212.8.248.197:8080/live/adrio/adrio/111.ts
-#EXTINF:-1,AR: Cinma tub
-http://212.8.248.197:8080/live/adrio/adrio/144.ts
-#EXTINF:-1,AR: Alhayat Musalsalat
-http://212.8.248.197:8080/live/adrio/adrio/108.ts
-#EXTINF:-1,AR: Alhayat We Alnas
-http://212.8.248.197:8080/live/adrio/adrio/2200.ts
-#EXTINF:-1,AR: Alkahera wal nas
-http://212.8.248.197:8080/live/adrio/adrio/141.ts
-#EXTINF:-1,AR: Alkahera wal nas 2
-http://212.8.248.197:8080/live/adrio/adrio/30.ts
-#EXTINF:-1,AR: TEN
-http://212.8.248.197:8080/live/adrio/adrio/87.ts
-#EXTINF:-1,AR: Star Cinema 1
-http://212.8.248.197:8080/live/adrio/adrio/99.ts
-#EXTINF:-1,AR: Star Cinema 2
-http://212.8.248.197:8080/live/adrio/adrio/78.ts
-#EXTINF:-1,AR: Cima
-http://212.8.248.197:8080/live/adrio/adrio/57.ts
-#EXTINF:-1,AR: TokTok Cinma
-http://212.8.248.197:8080/live/adrio/adrio/64.ts
-#EXTINF:-1,AR: Cinema Pro
-http://212.8.248.197:8080/live/adrio/adrio/2331.ts
-#EXTINF:-1,AR: kol Alnas
-http://212.8.248.197:8080/live/adrio/adrio/2319.ts
-#EXTINF:-1,AR: Masraweya Aflam
-http://212.8.248.197:8080/live/adrio/adrio/2325.ts
-#EXTINF:-1,AR: Cima Alibaba
-http://212.8.248.197:8080/live/adrio/adrio/119.ts
-#EXTINF:-1,AR: LCD Movies
-http://212.8.248.197:8080/live/adrio/adrio/124.ts
-#EXTINF:-1,AR: Cinma Tube
-http://212.8.248.197:8080/live/adrio/adrio/112.ts
-#EXTINF:-1,AR: Time Comedy
-http://212.8.248.197:8080/live/adrio/adrio/150.ts
-#EXTINF:-1,AR: Cairo Drama
-http://212.8.248.197:8080/live/adrio/adrio/85.ts
-#EXTINF:-1,AR: GM Aflam
-http://212.8.248.197:8080/live/adrio/adrio/3717.ts
-#EXTINF:-1,AR: GM Rap
-http://212.8.248.197:8080/live/adrio/adrio/3718.ts
-#EXTINF:-1,AR: GM Chaabani
-http://212.8.248.197:8080/live/adrio/adrio/3719.ts
-#EXTINF:-1,AR: GM Comedia
-http://212.8.248.197:8080/live/adrio/adrio/3720.ts
-#EXTINF:-1,AR: GM katakit
-http://212.8.248.197:8080/live/adrio/adrio/3721.ts
-#EXTINF:-1,AR: GM Drama
-http://212.8.248.197:8080/live/adrio/adrio/3722.ts
-#EXTINF:-1,AR: GM Alwan
-http://212.8.248.197:8080/live/adrio/adrio/3723.ts
-#EXTINF:-1,AR: GM Music
-http://212.8.248.197:8080/live/adrio/adrio/3724.ts
-#EXTINF:-1,AR: GM Tamazight
-http://212.8.248.197:8080/live/adrio/adrio/3725.ts
-#EXTINF:-1,AR: Jordan Sport
-http://212.8.248.197:8080/live/adrio/adrio/153.ts
-#EXTINF:-1,AR: Sryoyo tv
-http://212.8.248.197:8080/live/adrio/adrio/2222.ts
-#EXTINF:-1,AR: Soroyo Sat
-http://212.8.248.197:8080/live/adrio/adrio/93.ts
-#EXTINF:-1,AR: Nour Music 2
-http://212.8.248.197:8080/live/adrio/adrio/2228.ts
-#EXTINF:-1,AR: Nour Mariam
-http://212.8.248.197:8080/live/adrio/adrio/2230.ts
-#EXTINF:-1,AR: Sat 7
-http://212.8.248.197:8080/live/adrio/adrio/2334.ts
-#EXTINF:-1,AR: Nour Kids
-http://212.8.248.197:8080/live/adrio/adrio/2225.ts
-#EXTINF:-1,AR: Nour elkuds
-http://212.8.248.197:8080/live/adrio/adrio/2226.ts
-#EXTINF:-1,AR: Miracle1
-http://212.8.248.197:8080/live/adrio/adrio/2231.ts
-#EXTINF:-1,AR: Malakoot TV
-http://212.8.248.197:8080/live/adrio/adrio/2217.ts
-#EXTINF:-1,AR: Logos TV
-http://212.8.248.197:8080/live/adrio/adrio/3697.ts
-#EXTINF:-1,AR: Sat 7 Kids
-http://212.8.248.197:8080/live/adrio/adrio/3696.ts
-#EXTINF:-1,AR: Alkarma TV US
-http://212.8.248.197:8080/live/adrio/adrio/3698.ts
-#EXTINF:-1,AR: Aghapy
-http://212.8.248.197:8080/live/adrio/adrio/2218.ts
-#EXTINF:-1,AR: Al Fady
-http://212.8.248.197:8080/live/adrio/adrio/2216.ts
-#EXTINF:-1,AR: Koogi TV
-http://212.8.248.197:8080/live/adrio/adrio/115.ts
-#EXTINF:-1,AR: ME Sat
-http://212.8.248.197:8080/live/adrio/adrio/3699.ts
-#EXTINF:-1,AR: Mosalsalat Tube
-http://212.8.248.197:8080/live/adrio/adrio/2212.ts
-#EXTINF:-1,AR: Sudan TV
-http://212.8.248.197:8080/live/adrio/adrio/157.ts
-#EXTINF:-1,AR: Sudan 2
-http://212.8.248.197:8080/live/adrio/adrio/2312.ts
-#EXTINF:-1,AR: Sudan Drama
-http://212.8.248.197:8080/live/adrio/adrio/3734.ts
-#EXTINF:-1,AR: Sudan Sport
-http://212.8.248.197:8080/live/adrio/adrio/3732.ts
-#EXTINF:-1,AR: Sudan Tayba
-http://212.8.248.197:8080/live/adrio/adrio/3733.ts
-#EXTINF:-1,AR: Saudi Sport HD
-http://212.8.248.197:8080/live/adrio/adrio/2215.ts
-#EXTINF:-1,AR: Sudan Music
-http://212.8.248.197:8080/live/adrio/adrio/2313.ts
-#EXTINF:-1,AR: Sudan 4
-http://212.8.248.197:8080/live/adrio/adrio/2314.ts
-#EXTINF:-1,AR: Sudan 24
-http://212.8.248.197:8080/live/adrio/adrio/2288.ts
-#EXTINF:-1,AR: Alshrook
-http://212.8.248.197:8080/live/adrio/adrio/2284.ts
-#EXTINF:-1,AR: Scare TV
-http://212.8.248.197:8080/live/adrio/adrio/2289.ts
-#EXTINF:-1,AR: Yemen Shabab
-http://212.8.248.197:8080/live/adrio/adrio/2292.ts
-#EXTINF:-1,AR: Falastiniah TV
-http://212.8.248.197:8080/live/adrio/adrio/2290.ts
-#EXTINF:-1,AR: AR: Al Shallal TV
-http://212.8.248.197:8080/live/adrio/adrio/2293.ts
-#EXTINF:-1,AR: Kassala TV
-http://212.8.248.197:8080/live/adrio/adrio/2241.ts
-#EXTINF:-1,AR: San3a HD
-http://212.8.248.197:8080/live/adrio/adrio/2306.ts
-#EXTINF:-1,AR: Kwait 1
-http://212.8.248.197:8080/live/adrio/adrio/2220.ts
-#EXTINF:-1,AR: Kwait Sport Plus
-http://212.8.248.197:8080/live/adrio/adrio/2237.ts
-#EXTINF:-1,AR: Kwait Sport
-http://212.8.248.197:8080/live/adrio/adrio/2233.ts
-#EXTINF:-1,AR: Kwait Plus
-http://212.8.248.197:8080/live/adrio/adrio/2236.ts
-#EXTINF:-1,AR: Kwait Al Majlis
-http://212.8.248.197:8080/live/adrio/adrio/2238.ts
-#EXTINF:-1,AR: Kwait Ethraa
-http://212.8.248.197:8080/live/adrio/adrio/2234.ts
-#EXTINF:-1,AR: Kwait Arabe
-http://212.8.248.197:8080/live/adrio/adrio/2235.ts
-#EXTINF:-1,AR: Libya TV
-http://212.8.248.197:8080/live/adrio/adrio/2296.ts
-#EXTINF:-1,AR: Libya One
-http://212.8.248.197:8080/live/adrio/adrio/2299.ts
-#EXTINF:-1,AR: Libya Rasmia
-http://212.8.248.197:8080/live/adrio/adrio/2250.ts
-#EXTINF:-1,AR: Libya HD
-http://212.8.248.197:8080/live/adrio/adrio/2249.ts
-#EXTINF:-1,AR: Libya Al Naba tv
-http://212.8.248.197:8080/live/adrio/adrio/2295.ts
-#EXTINF:-1,AR: Libya Alhadath
-http://212.8.248.197:8080/live/adrio/adrio/2298.ts
-#EXTINF:-1,AR: Libya Panoram
-http://212.8.248.197:8080/live/adrio/adrio/2251.ts
-#EXTINF:-1,AR: Libya 24
-http://212.8.248.197:8080/live/adrio/adrio/2248.ts
-#EXTINF:-1,AR: Asia TV
-http://212.8.248.197:8080/live/adrio/adrio/2297.ts
-#EXTINF:-1,AR: Funoon
-http://212.8.248.197:8080/live/adrio/adrio/127.ts
-#EXTINF:-1,AR: Oman
-http://212.8.248.197:8080/live/adrio/adrio/2240.ts
-#EXTINF:-1,AR: Oman sport
-http://212.8.248.197:8080/live/adrio/adrio/2239.ts
-#EXTINF:-1,AR: Sama Dubai
-http://212.8.248.197:8080/live/adrio/adrio/29.ts
-#EXTINF:-1,AR: Abu Dhabi Emarat
-http://212.8.248.197:8080/live/adrio/adrio/39.ts
-#EXTINF:-1,AR: Dubai Aloula
-http://212.8.248.197:8080/live/adrio/adrio/40.ts
-#EXTINF:-1,AR: Dubai one
-http://212.8.248.197:8080/live/adrio/adrio/148.ts
-#EXTINF:-1,AR: Dubai Drama
-http://212.8.248.197:8080/live/adrio/adrio/145.ts
-#EXTINF:-1,AR: Dubai Zaman
-http://212.8.248.197:8080/live/adrio/adrio/3700.ts
-#EXTINF:-1,AR: Dubai Sport
-http://212.8.248.197:8080/live/adrio/adrio/70.ts
-#EXTINF:-1,AR: Dubai Sport 2
-http://212.8.248.197:8080/live/adrio/adrio/3701.ts
-#EXTINF:-1,AR: Sharja Sport
-http://212.8.248.197:8080/live/adrio/adrio/146.ts
-#EXTINF:-1,AR: Noor Dubai tv
-http://212.8.248.197:8080/live/adrio/adrio/147.ts
-#EXTINF:-1,AR: jordan
-http://212.8.248.197:8080/live/adrio/adrio/2264.ts
-#EXTINF:-1,AR: Dzair News TV
-http://212.8.248.197:8080/live/adrio/adrio/2307.ts
-#EXTINF:-1,AR: Rashid TV
-http://212.8.248.197:8080/live/adrio/adrio/2219.ts
-#EXTINF:-1,AR: Beladi
-http://212.8.248.197:8080/live/adrio/adrio/2197.ts
-#EXTINF:-1,AR: Sharqiya
-http://212.8.248.197:8080/live/adrio/adrio/133.ts
-#EXTINF:-1,AR: Beur Tv
-http://212.8.248.197:8080/live/adrio/adrio/2280.ts
-#EXTINF:-1,AR: Al Mawsleya TV
-http://212.8.248.197:8080/live/adrio/adrio/2286.ts
-#EXTINF:-1,AR: Afaq
-http://212.8.248.197:8080/live/adrio/adrio/2285.ts
-#EXTINF:-1,AR: Iraq Anb
-http://212.8.248.197:8080/live/adrio/adrio/2266.ts
-#EXTINF:-1,AR: Iraq Dijla
-http://212.8.248.197:8080/live/adrio/adrio/2265.ts
-#EXTINF:-1,AR: Iraq Al Fallujah
-http://212.8.248.197:8080/live/adrio/adrio/2268.ts
-#EXTINF:-1,AR: Iraq Alghadeer TV
-http://212.8.248.197:8080/live/adrio/adrio/2267.ts
-#EXTINF:-1,AR: Iraq AlForat TV
-http://212.8.248.197:8080/live/adrio/adrio/2277.ts
-#EXTINF:-1,AR: Iraq Al Ahd 1
-http://212.8.248.197:8080/live/adrio/adrio/2275.ts
-#EXTINF:-1,AR: National Geographic
-http://212.8.248.197:8080/live/adrio/adrio/56.ts
-#EXTINF:-1,AR: Dewan
-http://212.8.248.197:8080/live/adrio/adrio/2336.ts
-#EXTINF:-1,AR: Hona baghdad
-http://212.8.248.197:8080/live/adrio/adrio/2341.ts
-#EXTINF:-1,AR: iraq tv
-http://212.8.248.197:8080/live/adrio/adrio/2337.ts
-#EXTINF:-1,AR: Ishtar tv
-http://212.8.248.197:8080/live/adrio/adrio/2335.ts
-#EXTINF:-1,AR: Al Nada
-http://212.8.248.197:8080/live/adrio/adrio/2323.ts
-#EXTINF:-1,AR: Al Rasheed
-http://212.8.248.197:8080/live/adrio/adrio/69.ts
-#EXTINF:-1,AR: Baynounah tv HD
-http://212.8.248.197:8080/live/adrio/adrio/2203.ts
-#EXTINF:-1,AR: Medi 1
-http://212.8.248.197:8080/live/adrio/adrio/2201.ts
-#EXTINF:-1,AR: Al Aoula Maroc
-http://212.8.248.197:8080/live/adrio/adrio/140.ts
-#EXTINF:-1,AR: 2m maroc
-http://212.8.248.197:8080/live/adrio/adrio/135.ts
-#EXTINF:-1,AR: Arriadia Maroc
-http://212.8.248.197:8080/live/adrio/adrio/32.ts
-#EXTINF:-1,AR: Almaghribia
-http://212.8.248.197:8080/live/adrio/adrio/139.ts
-#EXTINF:-1,AR: Tamazight Maroc
-http://212.8.248.197:8080/live/adrio/adrio/106.ts
-#EXTINF:-1,AR: Assadisa Maroc
-http://212.8.248.197:8080/live/adrio/adrio/67.ts
-#EXTINF:-1,AR: Marrco News
-http://212.8.248.197:8080/live/adrio/adrio/137.ts
-#EXTINF:-1,AR: Nessma
-http://212.8.248.197:8080/live/adrio/adrio/28.ts
-#EXTINF:-1,AR: Zaytouna
-http://212.8.248.197:8080/live/adrio/adrio/17.ts
-#EXTINF:-1,AR: Al Djazairia
-http://212.8.248.197:8080/live/adrio/adrio/63.ts
-#EXTINF:-1,AR: Tunssia 1
-http://212.8.248.197:8080/live/adrio/adrio/15.ts
-#EXTINF:-1,AR: Tunssia 2
-http://212.8.248.197:8080/live/adrio/adrio/16.ts
-#EXTINF:-1,AR: Al Insen TV
-http://212.8.248.197:8080/live/adrio/adrio/143.ts
-#EXTINF:-1,AR: Ettounsia
-http://212.8.248.197:8080/live/adrio/adrio/132.ts
-#EXTINF:-1,AR: Tunis First
-http://212.8.248.197:8080/live/adrio/adrio/19.ts
-#EXTINF:-1,AR: Attassia TV
-http://212.8.248.197:8080/live/adrio/adrio/2247.ts
-#EXTINF:-1,AR: Elhiwar Ettounsia
-http://212.8.248.197:8080/live/adrio/adrio/60.ts
-#EXTINF:-1,AR: TelvzaTV
-http://212.8.248.197:8080/live/adrio/adrio/134.ts
-#EXTINF:-1,AR: M Tunisia
-http://212.8.248.197:8080/live/adrio/adrio/20.ts
-#EXTINF:-1,AR: Echorouk tv
-http://212.8.248.197:8080/live/adrio/adrio/138.ts
-#EXTINF:-1,AR: Hannibal
-http://212.8.248.197:8080/live/adrio/adrio/107.ts
-#EXTINF:-1,AR: Al Iraqia Sport
-http://212.8.248.197:8080/live/adrio/adrio/2204.ts
-#EXTINF:-1,AR: Al Magharibia
-http://212.8.248.197:8080/live/adrio/adrio/2196.ts
-#EXTINF:-1,AR: Elheddaf
-http://212.8.248.197:8080/live/adrio/adrio/2329.ts
-#EXTINF:-1,AR: Canal Algerie
-http://212.8.248.197:8080/live/adrio/adrio/122.ts
-#EXTINF:-1,AR: Algeria 3
-http://212.8.248.197:8080/live/adrio/adrio/121.ts
-#EXTINF:-1,AR: Alnahar algeria
-http://212.8.248.197:8080/live/adrio/adrio/125.ts
-#EXTINF:-1,AR: Tamazigh 4
-http://212.8.248.197:8080/live/adrio/adrio/2190.ts
-#EXTINF:-1,AR: Samira Tv
-http://212.8.248.197:8080/live/adrio/adrio/2189.ts
-#EXTINF:-1,AR: Numedia News
-http://212.8.248.197:8080/live/adrio/adrio/2188.ts
-#EXTINF:-1,AR: NaharLaki
-http://212.8.248.197:8080/live/adrio/adrio/2187.ts
-#EXTINF:-1,AR: El Bilad News
-http://212.8.248.197:8080/live/adrio/adrio/2191.ts
-#EXTINF:-1,AR: Echorouk News
-http://212.8.248.197:8080/live/adrio/adrio/2193.ts
-#EXTINF:-1,AR: Echorouk Benna
-http://212.8.248.197:8080/live/adrio/adrio/2192.ts
-#EXTINF:-1,AR: Dzair News
-http://212.8.248.197:8080/live/adrio/adrio/2194.ts
-#EXTINF:-1,AR: Imagine-Movies
-http://212.8.248.197:8080/live/adrio/adrio/2195.ts
-#EXTINF:-1,AR: palestine
-http://212.8.248.197:8080/live/adrio/adrio/128.ts
-#EXTINF:-1,AR: ALqudis
-http://212.8.248.197:8080/live/adrio/adrio/149.ts
-#EXTINF:-1,AR: AL Sharqiya News
-http://212.8.248.197:8080/live/adrio/adrio/2339.ts
-#EXTINF:-1,AR: Aqsa TV (Palestine)
-http://212.8.248.197:8080/live/adrio/adrio/2321.ts
-#EXTINF:-1,AR: Palestine Live
-http://212.8.248.197:8080/live/adrio/adrio/2317.ts
-#EXTINF:-1,AR: Palestine Today
-http://212.8.248.197:8080/live/adrio/adrio/2318.ts
-#EXTINF:-1,AR: Palestine TV
-http://212.8.248.197:8080/live/adrio/adrio/2316.ts
-#EXTINF:-1,AR: Baghdad TV
-http://212.8.248.197:8080/live/adrio/adrio/2202.ts
-#EXTINF:-1,AR: Cct Arabic
-http://212.8.248.197:8080/live/adrio/adrio/2224.ts
-#EXTINF:-1,AR: TRT Arapca
-http://212.8.248.197:8080/live/adrio/adrio/2232.ts
-#EXTINF:-1,AR: Alarabiya
-http://212.8.248.197:8080/live/adrio/adrio/37.ts
-#EXTINF:-1,AR: Al Mayaden
-http://212.8.248.197:8080/live/adrio/adrio/58.ts
-#EXTINF:-1,AR: Orient News
-http://212.8.248.197:8080/live/adrio/adrio/2210.ts
-#EXTINF:-1,AR: BBC News
-http://212.8.248.197:8080/live/adrio/adrio/66.ts
-#EXTINF:-1,AR: Mekameleen
-http://212.8.248.197:8080/live/adrio/adrio/2279.ts
-#EXTINF:-1,AR: Aljazera News
-http://212.8.248.197:8080/live/adrio/adrio/36.ts
-#EXTINF:-1,AR: Al Jazeera Documentary HD
-http://212.8.248.197:8080/live/adrio/adrio/31.ts
-#EXTINF:-1,AR: Aljazera Mobashir
-http://212.8.248.197:8080/live/adrio/adrio/33.ts
-#EXTINF:-1,AR: Sky News HD
-http://212.8.248.197:8080/live/adrio/adrio/18.ts
-#EXTINF:-1,AR: AL Arabia Hadath
-http://212.8.248.197:8080/live/adrio/adrio/35.ts
-#EXTINF:-1,AR: Russiya Al Yaum
-http://212.8.248.197:8080/live/adrio/adrio/2198.ts
-#EXTINF:-1,AR: Al Jazeera Mubasher
-http://212.8.248.197:8080/live/adrio/adrio/2205.ts
-#EXTINF:-1,AR: France24 News
-http://212.8.248.197:8080/live/adrio/adrio/2206.ts
+#EXTINF:-1,~ Arabic News ~
+http://192.99.35.215:5109/stream
+#EXTINF:-1,Al Hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1,BBC
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1,Deutsche Welle
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF:-1,NRT
+http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
+#EXTINF:-1,TRT
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:-1,~ Lebanon TV ~
+http://www.lengua.com/anthems/Lebanon.mp3
+#EXTINF:-1,LBCi
+http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
+#EXTINF:-1,Future TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+#EXTINF:-1,Arabica TV
+https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
+#EXTINF:-1,Hawacom TV
+http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
+#EXTINF:-1,Al Mayadeen
+http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
+#EXTINF:-1,Al Manar
+http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
+#EXTINF:-1,~ Syria TV ~
+http://www.lengua.com/anthems/Syria.mp3
+#EXTINF:-1,ANN
+http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+#EXTINF:-1,Sama TV
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
+#EXTINF:-1,Syria TV
+http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
+#EXTINF:-1,Nabd Syria
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria
+#EXTINF:-1,~ Jordan TV  ~
+http://www.lengua.com/anthems/Jordan.mp3
+#EXTINF:-1,Al Taghier
+http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
+#EXTINF:-1,Amen FM 89.5
+http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
+#EXTINF:-1,Semsem
+http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
+#EXTINF:-1,~ Palestine TV ~
+http://users.atw.hu/szbszig/palestine.mp3
+#EXTINF:-1,Al Aqsa
+http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
+#EXTINF:-1,~ Iraq TV ~
+http://www.lengua.com/anthems/Iraq.mp3
+#EXTINF:-1,Al Forat
+http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8
+#EXTINF:-1,Al Rasheed
+http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
+#EXTINF:-1,Al Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1,Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1,~ KSA TV ~
+http://www.lengua.com/anthems/SaudiArabia.mp3
+#EXTINF:-1,Masdar TV
+http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
+#EXTINF:-1,Rotana Cinema
+http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=1599780920
+#EXTINF:-1,Rotana Classic
+http://185.27.116.54:1935/live/rotanaclassic/gmswf.m3u8?v=1599780920
+#EXTINF:-1,Rotana Clip
+http://185.27.116.54:1935/live/rotanaclip/gmswf.m3u8?v=1599780920
+#EXTINF:-1,Wanasah
+http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
+#EXTINF:-1,~ UAE TV ~
+http://www.lengua.com/anthems/UnitedArabEmirates.mp3
+#EXTINF:-1,Al Aan
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
+#EXTINF:-1,Al Arabiya
+http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
+#EXTINF:-1,Al Dafrah TV
+http://live.aldafrah.tv:1935/live/myStream3/playlist.m3u8
+#EXTINF:-1,CNBC Arabiya
+http://199.167.151.237:1935/live/sp15_37.stream/gmswf.m3u8
+#EXTINF:-1,Emarat TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
+#EXTINF:-1,Dubai TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/master.m3u8
+#EXTINF:-1,Dubai TV*
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+#EXTINF:-1,Dubai One
+http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/master.m3u8
+#EXTINF:-1,Dubai One*
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/master.m3u8
+#EXTINF:-1,Dubai One**
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#EXTINF:-1,Dubai Zaman
+http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Dubai Zaman*
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+#EXTINF:-1,Dubai Sports
+http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
+#EXTINF:-1,Dubai Sports*
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:-1,Sama Dubai
+http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/master.m3u8
+#EXTINF:-1,Sama Dubai*
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
+#EXTINF:-1,YAS Sports
+http://selevision9878-i.akamaihd.net/hls/live/219130/98782/master.m3u8
+#EXTINF:-1,Dubai Racing 1
+http://dmivll.mangomolo.com/events/smil:events.smil/master.m3u8
+#EXTINF:-1,Dubai Racing 2
+http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/master.m3u8
+#EXTINF:-1,Abu Dhabi TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:-1,Abu Dhabi Drama
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:-1,National Geographic
+http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
+#EXTINF:-1,Zee Aflam (Hindi)
+http://hls.alwhdat.net/ios/zee_aflam_t.m3u8
+#EXTINF:-1,Abu Dhabi Sports
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1,Abu Dhabi Sports SD
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:-1,Abu Dhabi Sports SD*
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1,Abu Dhabi Sports HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1,Abu Dhabi Sports 2 SD
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2 SD*
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1,Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1,Abu Dhabi Sports 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+#EXTINF:-1,Abu Dhabi Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+#EXTINF:-1,~ Qatar TV ~
+http://www.lengua.com/anthems/Qatar.mp3
+#EXTINF:-1,Al Jazeera
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
+#EXTINF:-1,Al Jazeera Mubasher
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/300.m3u8
+#EXTINF:-1,Al Jazeera Documentary
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1,Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1,Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1,Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1,Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1,Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1,~ Kuwait TV ~
+http://www.lengua.com/anthems/Kuwait.mp3
+#EXTINF:-1,Al Rai
+http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
+#EXTINF:-1,KTV 1
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
+#EXTINF:-1,KTV 1*
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
+#EXTINF:-1,KTV 2
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv2
+#EXTINF:-1,KTV 2*
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
+#EXTINF:-1,KTV Sport
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+#EXTINF:-1,KTV Al Arabi
+https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
+#EXTINF:-1,KTV Plus
+https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
+#EXTINF:-1,KTV Al Majlis
+https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
+#EXTINF:-1,~ Oman TV ~
+http://www.lengua.com/anthems/Oman.mp3
+#EXTINF:-1,Oman TV
+http://38.96.148.30:1935/live/omantv1//playlist.m3u8
+#EXTINF:-1,Oman TV*
+http://37.152.128.66:7009/play/a00j
+#EXTINF:-1,Oman Mubasher
+http://38.96.148.30:1935/live/omantv3/playlist.m3u8
+#EXTINF:-1,Oman Documentary
+http://38.96.148.30:1935/live/omantv4/playlist.m3u8
+#EXTINF:-1,Oman Sports
+http://38.96.148.30:1935/live/omantv2//playlist.m3u8
+#EXTINF:-1,~ Yemen TV ~
+http://www.lengua.com/anthems/Yemen.mp3
+#EXTINF:-1,Yemen TV [Off]
+http://199.167.151.237:1935/live/sp15_38.stream/gmswf.m3u8
+#EXTINF:-1,Al Masirah
+http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
+#EXTINF:-1,~ Egypt TV ~
+http://www.lengua.com/anthems/Egypt.mp3
+#EXTINF:-1,CBC
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=cbc&t=ar
+#EXTINF:-1,Al Kahera Wal Nas
+http://selevision9877-i.akamaihd.net/hls/live/219125/98777/1.m3u8
+#EXTINF:-1,El Sharq [Off]
+http://cdn.edge.tmed.pw:8081/elsharqtv_main/main/playlist.m3u8
+#EXTINF:-1,Mekameleen
+http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist.m3u8
+#EXTINF:-1,Nile Cinema
+http://selevision9883-i.akamaihd.net/hls/live/219204/98830/1.m3u8
+#EXTINF:-1,~ Tunisia TV ~
+http://www.lengua.com/anthems/Tunisia.mp3
+#EXTINF:-1,Nessma [Geo]
+http://cdn-hls.globecast.tv/live/ramdisk/nessma_eur/hls_video/nessma_eur-video=1562800-audio_AACL_und_65200_120=65200.m3u8
+#EXTINF:-1,Nessma*
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
+#EXTINF:-1,~ Libya TV ~
+http://www.lengua.com/anthems/Libya.mp3
+#EXTINF:-1,Al Nabaa
+http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=nabaa_tv
+#EXTINF:-1,Libya 218
+http://91.134.145.75:10001/218tv/218tv/playlist.m3u8
+#EXTINF:-1,Libya TV
+http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
+#EXTINF:-1,~ Algeria TV ~
+http://www.lengua.com/anthems/Algeria.mp3
+#EXTINF:-1,Dzair TV [Geo]
+http://cdn-hls.globecast.tv/live/ramdisk/dzair_tv/hls_video/dzair_tv-video=1562800-audio_AACL_und_65200_120=65200.m3u8
+#EXTINF:-1,Ennahar TV
+http://selevision9887-i.akamaihd.net/hls/live/219290/98874/1.m3u8
+#EXTINF:-1,~ Morocco TV ~
+http://www.lengua.com/anthems/Morocco.mp3
+#EXTINF:-1,Al Aoula
+http://95.81.155.40/5958/index.m3u8
+#EXTINF:-1,Al Aoula Int'l
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1,Al Aoula Laayoune
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1,Arryadia
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1,Arrabiaa
+http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1,Al Maghribia
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1,Assadissa
+http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1,Tamazight
+http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1,~ Ethiopia TV ~
+http://www.lengua.com/anthems/Ethiopia.mp3
+#EXTINF:-1,Kana TV
+http://kanatv-lh.akamaihd.net/i/KanaTV_1@435010/master.m3u8
